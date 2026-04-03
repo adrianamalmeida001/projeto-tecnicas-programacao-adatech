@@ -14,10 +14,11 @@ O dataset encontra-se disponível neste repositório em formato CSV.
 - Pandas
 - Google Colab
 - GitHub
+- Copilot
 
 ## Estrutura do repositório
 - arquivo CSV com os dados utilizados
-- notebook Jupyter (.ipynb) com a análise
+- notebook (.ipynb) com a análise
 - arquivo README.md com a descrição do projeto
 
 ## Observações
